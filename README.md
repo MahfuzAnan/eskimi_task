@@ -39,7 +39,7 @@ Follow the steps below to clone and set up the project locally.
 
 #### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/MahfuzAnan/eskimi_task.git
 cd eskimi_task
 ```
 #### 2️⃣ Install Dependencies
