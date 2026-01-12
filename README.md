@@ -99,6 +99,7 @@ npm test
 ├── jest.config.js
 ├── tsconfig.json
 ├── package.json
+├── nodemon.json
 └── README.md
 
 ```
